@@ -1,0 +1,116 @@
+{
+  "project_info": {
+    "project_number": "349198690153",
+    "project_id": "hiredev-7e6df",
+    "storage_bucket": "hiredev-7e6df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349198690153:android:254643e58682c2b8e7fff8",
+        "android_client_info": {
+          "package_name": "com.example.hireme_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349198690153-827oobb2q1tljc7fqeleoidaui9tov69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hireme_user",
+            "certificate_hash": "ce3af49afc333de6ef3b317a94228c218be46d78"
+          }
+        },
+        {
+          "client_id": "349198690153-m1ghvonn3ds3n8j4q4ba3gqfmrpmo8pt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hireme_user",
+            "certificate_hash": "dde02718d81f21394e70fd15fa7886a10ca7feea"
+          }
+        },
+        {
+          "client_id": "349198690153-793gogq5oeatksm05nkn8d6u6kb5rg0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuZDuk2ZFwRMiZxg7oXKlQIwmzvtu0sy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349198690153-793gogq5oeatksm05nkn8d6u6kb5rg0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349198690153:android:f667673078e13e8fe7fff8",
+        "android_client_info": {
+          "package_name": "com.py.contratame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349198690153-0d1e217fjbeeikqe4msbqklnn7rcfmae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.py.contratame",
+            "certificate_hash": "ce3af49afc333de6ef3b317a94228c218be46d78"
+          }
+        },
+        {
+          "client_id": "349198690153-15e9s4m6bjfpf6dfdt01il1of3mkmt3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.py.contratame",
+            "certificate_hash": "dde02718d81f21394e70fd15fa7886a10ca7feea"
+          }
+        },
+        {
+          "client_id": "349198690153-4kvcr7buj5bm7pe0sniv0l89fc1r1g0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.py.contratame",
+            "certificate_hash": "854ec05df5cae8542d62673982b172b59fef5e3f"
+          }
+        },
+        {
+          "client_id": "349198690153-nbunv14bbcgai3sano4ija7e8pt8bc5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.py.contratame",
+            "certificate_hash": "23fcf34a4481bf8e3eb672c9c7dca51b39ca8382"
+          }
+        },
+        {
+          "client_id": "349198690153-793gogq5oeatksm05nkn8d6u6kb5rg0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuZDuk2ZFwRMiZxg7oXKlQIwmzvtu0sy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349198690153-793gogq5oeatksm05nkn8d6u6kb5rg0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

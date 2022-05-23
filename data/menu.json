@@ -1,0 +1,41 @@
+{
+    "nombreApp" : "Componentes",
+    "rutas" : [
+        {
+            "ruta" : "Carpenter",
+            "texto": "Carpintero"
+        },
+        {
+            "ruta" : "Electrician",
+            "texto": "Electricista"
+        },
+        {
+            "ruta" : "Gardening",
+            "texto": "Jardinero"
+        },
+        {
+            "ruta" : "Painter",
+            "texto": "Pintor"
+        },
+        {
+            "ruta" : "Plumber",
+            "texto": "Plomero"
+        },
+        {
+            "ruta" : "HomeClean",
+            "texto": "Limpiaza "
+        },
+        {
+            "ruta" : "HomeClean",
+            "texto": "Limpiaza "
+        },
+        {
+            "ruta" : "HomeClean",
+            "texto": "Limpiaza "
+        },
+        {
+            "ruta" : "HomeClean",
+            "texto": "Limpiaza "
+        }
+    ]
+}
